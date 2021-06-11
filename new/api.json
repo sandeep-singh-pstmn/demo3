@@ -26,6 +26,7 @@
             {
             "name": "usd",
             "in": "query",
+            "description":"soo",
             "required": true,
             "schema": {
               "type": "integer",
@@ -35,6 +36,7 @@
           {
             "name": "id",
             "in": "query",
+            "description":"soo",
             "required": true,
             "schema": {
               "type": "integer",
