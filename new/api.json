@@ -33,16 +33,6 @@
               "format": "int32"
             }
             },
-            {
-                "name":"hello",
-                "in":"query",
-                "description":"he",
-                "required":true,
-                "schema":{
-                    "type":"integer",
-                    "format":"int32"
-                }
-            },
           {
             "name": "id",
             "in": "query",
