@@ -9,6 +9,7 @@
   },
   "servers": [
     {
+        "description": "soo",
       "url": "http://petstore.swagger.io/v1"
     }
   ],
