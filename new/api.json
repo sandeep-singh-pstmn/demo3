@@ -23,16 +23,6 @@
           "user"
         ],
         "parameters": [
-            {
-            "name": "usd",
-            "in": "query",
-            "description":"soo",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-            },
           {
             "name": "id",
             "in": "query",
