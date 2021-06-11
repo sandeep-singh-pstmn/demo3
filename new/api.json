@@ -26,7 +26,6 @@
             {
             "name": "usd",
             "in": "query",
-            "description": "ID of the user",
             "required": true,
             "schema": {
               "type": "integer",
@@ -36,7 +35,6 @@
           {
             "name": "id",
             "in": "query",
-            "description": "ID of the user",
             "required": true,
             "schema": {
               "type": "integer",
