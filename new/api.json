@@ -16,6 +16,7 @@
   "paths": {
     "/user": {
       "get": {
+          "description": "wow",
         "summary": "Details about a user",
         "operationId": "listUser",
         "tags": [
