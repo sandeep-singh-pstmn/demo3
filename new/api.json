@@ -23,6 +23,14 @@
           "user"
         ],
         "parameters": [
+            {
+                "name":"foo",
+                "in":"quer",
+                "description":"helo",
+                "schema":{
+
+                }
+            },
           {
             "name": "id",
             "in": "query",
