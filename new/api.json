@@ -16,6 +16,8 @@
   "paths": {
     "/user": {
       "get": {
+        "description": "hola",
+        "description": "holaa",
         "summary": "Details about a user",
         "operationId": "listUser",
         "tags": [
