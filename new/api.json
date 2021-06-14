@@ -23,9 +23,6 @@
           "user"
         ],
         "parameters": [
-            {
-                dbcsbc
-            }
           {
             "name": "id",
             "in": "query",
