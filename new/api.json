@@ -23,6 +23,13 @@
           "user"
         ],
         "parameters": [
+            {
+            "name": "id",
+            "in": "query",
+            "required": true,
+            "schema": {
+            }
+          },
           {
             "name": "id",
             "in": "query",
