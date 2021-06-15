@@ -21,6 +21,16 @@
           "user"
         ],
         "parameters": [
+            {
+            "name": "name",
+            "in": "query",
+            "description": "name of the user",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
           {
             "name": "id",
             "in": "query",
